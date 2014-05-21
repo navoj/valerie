@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
 require 'logger'
 
-$URL = 'https://github.com/pickhardt/betty'
-$VERSION = '0.1.5'
+$URL = 'https://github.com/navoj/valerie'
+$VERSION = '0.1.6'
 $executors = []
 $LOG = Logger.new(File.open(ENV['HOME'] + '/.betty_history', 'a+'))
 
