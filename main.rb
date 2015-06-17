@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env ruby200
 require 'logger'
 
 $URL = 'https://github.com/navoj/valerie'

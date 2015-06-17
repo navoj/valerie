@@ -2,7 +2,7 @@ module BettyConfig
   require 'yaml'
   
   @@config = {}
-  @@default_config = {"name" => "Betty","speech"=>false,"web"=>false,"chat"=>false}
+  @@default_config = {"name" => "Valerie","speech"=>false,"web"=>false,"chat"=>false}
   
   def self.config_object
     @@config.inspect
